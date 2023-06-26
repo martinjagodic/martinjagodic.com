@@ -1,7 +1,7 @@
 {
-  "name": "hugo-template",
+  "name": "martinjagodic.com",
   "version": "1.1.0",
-  "description": "Template project for sites built with Hugo & Netlify",
+  "description": "My place on the web",
   "main": "index.js",
   "scripts": {
     "dev": "hugo server",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/poslovnimediji/hugo-template.git"
+    "url": "git+https://github.com/poslovnimediji/martinjagodic.com.git"
   },
   "author": "PM, poslovni mediji",
   "license": "UNLICENSED",
   "bugs": {
-    "url": "https://github.com/poslovnimediji/hugo-template/issues"
+    "url": "https://github.com/poslovnimediji/martinjagodic.com/issues"
   },
-  "homepage": "https://github.com/poslovnimediji/hugo-template#readme",
+  "homepage": "https://github.com/poslovnimediji/martinjagodic.com#readme",
   "devDependencies": {
     "eslint": "^8.41.0",
     "eslint-config-standard": "^17.1.0",

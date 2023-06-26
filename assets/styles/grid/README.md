@@ -1,6 +1,6 @@
 # PM Grid & Breakpoints Library
 
-Poslovni mediji's own grid library based on (CSS Grid)[https://css-tricks.com/snippets/css/complete-guide-grid/]. Currently a part of `hugo-template`, one day a package on NPM.
+Poslovni mediji's own grid library based on (CSS Grid)[https://css-tricks.com/snippets/css/complete-guide-grid/]. Currently a part of `martinjagodic.com`, one day a package on NPM.
 
 ## Global Properties
 1. $breakpoints - edit the `$breakpoints` map to adapt them for your project's needs.

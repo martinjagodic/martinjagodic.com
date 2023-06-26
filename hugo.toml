@@ -1,11 +1,10 @@
-title = "Hugo Template"
+title = "Martin Jagodic"
 disableFastRender = true
 languageCode = "en-en"
 defaultContentLanguage = "en"
 
 [params]
-description = "Template repository for Jamstack projects"
-image = "/media/brand/og-image.jpg"
+description = "My place on the web"
 
 [params.breakpoints]
   xs = 576
