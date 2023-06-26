@@ -5,7 +5,7 @@ backend:
   branch: main
   squash_merges: true
 
-display_url: https://martinjagodic.com.netlify.app/
+display_url: https://martinjagodic.com/
 logo_url: /media/me.jpg
 media_folder: static/media/uploads
 public_folder: /media/uploads

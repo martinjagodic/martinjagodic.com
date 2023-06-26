@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/cd918d1d-9358-49b7-bb3b-88c41982ce0f/deploy-status)](https://app.netlify.com/sites/martinjagodic/deploys)
+
 # My website
 
 My place on the web: https://martinjagodic.com/
