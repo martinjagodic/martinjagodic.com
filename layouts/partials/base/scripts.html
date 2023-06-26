@@ -1,6 +1,6 @@
-{{ $lazyload := resources.Get "/scripts/lazyload.js" }}
+{{ $externalLinks := resources.Get "/scripts/external-links.js" }}
 
-{{ $bundleItems := slice $lazyload }}
+{{ $bundleItems := slice $externalLinks }}
 
 {{ $bundleJs := $bundleItems | resources.Concat "scripts/bundle.js" | js.Build (dict "sourcemap" "inline") }}
 
