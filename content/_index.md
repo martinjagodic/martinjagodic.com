@@ -5,11 +5,11 @@ image: /media/me.jpg
 ---
 ## About me
 
-I'm a web developer working with the [Jamstack](https://jamstack.org/) approach. I am one of the maintainers of [Decap CMS](https://decapcms.org/) and I work at [PM TechHub](https://techhub.p-m.si/), a digital agency.
+I'm a **web developer** working with the [Jamstack](https://jamstack.org/) approach. I am one of the maintainers of [Decap CMS](https://decapcms.org/) and I work at [PM TechHub](https://techhub.p-m.si/), a digital agency.
 
-I play guitar at death metal band [Armaroth](https://armaroth.bandcamp.com/), and I do outdoor sports, especially trail running.
+I am a founder and guitarist in [Armaroth](https://armaroth.bandcamp.com/), a death metal band. I do outdoor sports, especially trail running.
 
-## Stack/favorite tools
+## My stack and some fave tools
 
 - [Hugo](https://gohugo.io/)
 - [Decap CMS](https://decapcms.org/)
@@ -20,5 +20,5 @@ I play guitar at death metal band [Armaroth](https://armaroth.bandcamp.com/), an
 
 ## I am on
 
-- [GitHub](https://github.com/martinjagodic)
-- [LinkedIn](https://www.linkedin.com/in/martinjagodic/)
+- [Github](https://github.com/martinjagodic)
+- [Linkedin](https://www.linkedin.com/in/martinjagodic/)

@@ -1,7 +1,10 @@
 // import fonts, define headings, paragraphs, lists etc
-
+html,
 body {
-  line-height: 1.5;
+  line-height: 1.6;
+  font-size: 18px;
+  font-family: Jost, sans-serif;
+  letter-spacing: 0.5px;
 }
 
 .text-right {
@@ -12,7 +15,41 @@ body {
   text-align: left;
 }
 
+h1 {
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1em;
+}
+
+h2 {
+  font-size: 2.25rem;
+  font-weight: 700;
+  line-height: 1.125em;
+}
+
+h3 {
+  font-size: 1.75rem;
+  font-weight: 700;
+  line-height: 1.25em;
+}
+
+h4 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.5em;
+}
+
+.text-large {
+  font-size: 1.25rem;
+}
+
+.text-small {
+  font-size: 0.9rem;
+}
+
 a {
+  color: inherit;
+
   &.external::after {
     content: "↗";
     margin-left: 0.3em;

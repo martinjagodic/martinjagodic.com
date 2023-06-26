@@ -44,7 +44,7 @@
 <body>
   {{ partialCached "base/unsupported-browser" . }}
   <a href="#main" class="button skip-to-content">{{ T "skip-to-content" }}</a>
-  {{/*  {{ partial "header" . }}  */}}
+  {{ partial "header" . }}
 
   <main id="main">
     {{ block "main" . }}{{ end }}
