@@ -1,0 +1,10 @@
+{{ define "main" }}
+  <main>
+    <div class="container">
+      <h1>{{ .Title }}</h1>
+      <p style="font-weight: 700;">{{ .Description }}</p>
+
+      {{ .Content | safeHTML }}
+    </div>
+  </main>
+{{ end }}
